@@ -1,0 +1,34 @@
+{
+  "id": "32cbc4a8-4f4b-4465-98ff-5e720432072d",
+  "originalName": "creator-studio-sample.mp4",
+  "mimeType": "video/mp4",
+  "videoPath": "/app/applet/tmp_studio/projects/32cbc4a8-4f4b-4465-98ff-5e720432072d/sample-studio-clip.mp4",
+  "thumbDir": "/app/applet/tmp_studio/projects/32cbc4a8-4f4b-4465-98ff-5e720432072d/thumbs",
+  "thumbnails": [
+    "thumb_001.jpg",
+    "thumb_002.jpg",
+    "thumb_003.jpg",
+    "thumb_004.jpg",
+    "thumb_005.jpg",
+    "thumb_006.jpg",
+    "thumb_007.jpg",
+    "thumb_008.jpg",
+    "thumb_009.jpg",
+    "thumb_010.jpg",
+    "thumb_011.jpg",
+    "thumb_012.jpg"
+  ],
+  "metadata": {
+    "durationSec": 14,
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "hasAudio": true,
+    "sizeBytes": 2541733,
+    "codec": "h264"
+  },
+  "geminiFileUri": "https://generativelanguage.googleapis.com/v1/files/0umqgni9j1im",
+  "geminiMimeType": "video/mp4",
+  "exportPath": "/app/applet/tmp_studio/projects/32cbc4a8-4f4b-4465-98ff-5e720432072d/cutflow-export.mp4",
+  "isSample": true
+}

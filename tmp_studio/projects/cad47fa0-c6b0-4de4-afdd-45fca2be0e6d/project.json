@@ -1,0 +1,33 @@
+{
+  "id": "cad47fa0-c6b0-4de4-afdd-45fca2be0e6d",
+  "originalName": "test.mp4",
+  "mimeType": "video/mp4",
+  "videoPath": "/app/applet/tmp_studio/projects/cad47fa0-c6b0-4de4-afdd-45fca2be0e6d/source.mp4",
+  "thumbDir": "/app/applet/tmp_studio/projects/cad47fa0-c6b0-4de4-afdd-45fca2be0e6d/thumbs",
+  "thumbnails": [
+    "thumb_001.jpg",
+    "thumb_002.jpg",
+    "thumb_003.jpg",
+    "thumb_004.jpg",
+    "thumb_005.jpg",
+    "thumb_006.jpg",
+    "thumb_007.jpg",
+    "thumb_008.jpg",
+    "thumb_009.jpg",
+    "thumb_010.jpg",
+    "thumb_011.jpg",
+    "thumb_012.jpg"
+  ],
+  "metadata": {
+    "durationSec": 2,
+    "width": 320,
+    "height": 240,
+    "fps": 24,
+    "hasAudio": true,
+    "sizeBytes": 201420,
+    "codec": "h264"
+  },
+  "geminiFileUri": "https://generativelanguage.googleapis.com/v1/files/t9e7ut56ly0j",
+  "geminiMimeType": "video/mp4",
+  "voiceoverPath": "/app/applet/tmp_studio/projects/cad47fa0-c6b0-4de4-afdd-45fca2be0e6d/voiceover.wav"
+}

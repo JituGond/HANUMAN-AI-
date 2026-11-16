@@ -1,0 +1,6 @@
+{
+  "name": "CutFlow Studio",
+  "description": "AI-powered video editor, auto-cut detector, multi-style script writer, and Hindi/English voiceover studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
